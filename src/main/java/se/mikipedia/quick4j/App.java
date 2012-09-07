@@ -1,4 +1,4 @@
-package se.mikipedia;
+package se.mikipedia.quick4j;
 
 /**
  * Hello world!
